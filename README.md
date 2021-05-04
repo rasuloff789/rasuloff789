@@ -1,5 +1,5 @@
 ### Hi there 👋
-http://github-readme-stats.vercel.app/api?username=rasuloff789&show_icons=true&theme=vue-dark
+![](http://github-readme-stats.vercel.app/api?username=rasuloff789&show_icons=true&theme=vue-dark)
 <!--
 **rasuloff789/rasuloff789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
